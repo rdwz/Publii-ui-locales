@@ -1,7 +1,7 @@
 {
-	"name": "English - default",
+	"name": "German - default",
 	"version": "1.0.0",
-	"author": "Publii Team",
+	"author": "Johannes Keyser",
 	"publiiSupport": "0.39.0",
     "momentLocale": "de",
     "wysiwygTranslation": false
